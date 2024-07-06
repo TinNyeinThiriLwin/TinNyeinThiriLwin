@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TinNyeinThiriLwin aka Nyein Nyein
+- 👋 Hi, I’m @TinNyeinThiriLwin aka Thiri.
 - 👀 I’m interested in advanced technology and uncovering insights of everything.
 - 🌱 I’m currently learning data related technology and tools.
 - 💞️ I’m looking to collaborate on SQL, Python, R and more ...
