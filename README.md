@@ -26,7 +26,7 @@ I specialize in transforming complex data into actionable business insights usin
 ## ⭐ Featured Project  
 
 ### 📊 Customer Churn Analytics & Retention Strategy  
-👉 [View Project](./projects/customer-churn-analytics)
+👉 [View Project](https://github.com/TinNyeinThiriLwin/data-analytics-portfolio/tree/main/projects/Churn_Analysis_by_AON_Report_TNTL)
 
 - Analyzed telecom customer churn using Age on Network (AON) segmentation  
 - Applied statistical testing (Two-Proportion Z-Test) to validate churn differences  
